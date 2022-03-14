@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://peterdentai.github.io/csb-ekyge5/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://peterdentai.github.io/csb-ekyge5/static/js/main.ff065753.chunk.js",
+    "main.js.map": "https://peterdentai.github.io/csb-ekyge5/static/js/main.ff065753.chunk.js.map",
+    "runtime-main.js": "https://peterdentai.github.io/csb-ekyge5/static/js/runtime-main.3a15dd1e.js",
+    "runtime-main.js.map": "https://peterdentai.github.io/csb-ekyge5/static/js/runtime-main.3a15dd1e.js.map",
+    "static/js/2.fb834de3.chunk.js": "https://peterdentai.github.io/csb-ekyge5/static/js/2.fb834de3.chunk.js",
+    "static/js/2.fb834de3.chunk.js.map": "https://peterdentai.github.io/csb-ekyge5/static/js/2.fb834de3.chunk.js.map",
+    "index.html": "https://peterdentai.github.io/csb-ekyge5/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://peterdentai.github.io/csb-ekyge5/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fb834de3.chunk.js.LICENSE.txt": "https://peterdentai.github.io/csb-ekyge5/static/js/2.fb834de3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a15dd1e.js",
+    "static/js/2.fb834de3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ff065753.chunk.js"
+  ]
+}
